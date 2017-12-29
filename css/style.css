@@ -83,7 +83,7 @@ figcaption {
   float: left;
   width: 32%;
   background: ccc;
-  
+
 }
 
 .col-2{
@@ -112,7 +112,7 @@ figcaption {
   element that has a class where ANYWHERE
   inside the class name is equal to "col-"
   anywhere inside it, give margin on left.*/
-} 
+}
 
 .first{
   margin-left: 0%;
